@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764703627411",
+    "project_id": "book-store-fajri-225",
+    "storage_bucket": "book-store-fajri-225.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764703627411:android:22bd7edab44ed805b99566",
+        "android_client_info": {
+          "package_name": "com.example.project_toko_buku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEIcdsMUJhjZ213etU8PpptZn1mNGlysM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
